@@ -1,0 +1,11 @@
+[package]
+name = "chip_8"
+version = "0.1.0"
+authors = ["maximveligan <maximveligan@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "chip_8"
+path = "src/lib.rs"
+
+[dependencies]
